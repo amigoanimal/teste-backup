@@ -6,6 +6,7 @@
 /*==============================================================*/
 /* Table: EMPRESA                                               */
 /*==============================================================*/
+italo teste mais uma vez vamos lá ver como está
 create table EMPRESA (
 CODEMPRESA           INTEGER                        not null,
 ATIVACAOGERAL        VARCHAR(10),
