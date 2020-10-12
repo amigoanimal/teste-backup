@@ -35,7 +35,7 @@ CREATE TABLE `animal` (
 
 LOCK TABLES `animal` WRITE;
 /*!40000 ALTER TABLE `animal` DISABLE KEYS */;
-INSERT INTO `animal` VALUES (1,'bili'),(2,'totó'),(3,'asdasda'),(7,'contador'),(8,'to com fome'),(9,'karoooool'),(10,'cleber'),(11,'você é foda italo S2'),(12,'vamos la novamente'),(13,'gdfgdfgdfg'),(14,'345345345345');
+INSERT INTO `animal` VALUES (1,'karol');
 /*!40000 ALTER TABLE `animal` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
