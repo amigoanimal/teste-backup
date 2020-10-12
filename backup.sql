@@ -12,7 +12,7 @@ uhuuuuuuu
 aaaaa
 asdadasdadad
 oijewodsmqoiwmeodi
-1.2
+1.2.3
 create table EMPRESA (
 CODEMPRESA           INTEGER                        not null,
 ATIVACAOGERAL        VARCHAR(10),
